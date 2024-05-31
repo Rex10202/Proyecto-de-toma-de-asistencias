@@ -96,5 +96,20 @@
   <ItemGroup>
     <None Include="Resources\respaldo.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estacion-de-trabajo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rectangulo-redondeado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_2905146299718817-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\equipo-medico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salon-de-clases.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
