@@ -63,6 +63,16 @@ namespace Asistencia.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap anadir {
+            get {
+                object obj = ResourceManager.GetObject("anadir", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap base_de_datos {
             get {
                 object obj = ResourceManager.GetObject("base-de-datos", resourceCulture);
@@ -86,6 +96,26 @@ namespace Asistencia.Properties {
         internal static System.Drawing.Bitmap estacion_de_trabajo {
             get {
                 object obj = ResourceManager.GetObject("estacion-de-trabajo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap grafico {
+            get {
+                object obj = ResourceManager.GetObject("grafico", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap lupa {
+            get {
+                object obj = ResourceManager.GetObject("lupa", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -146,6 +176,16 @@ namespace Asistencia.Properties {
         internal static System.Drawing.Bitmap usuario {
             get {
                 object obj = ResourceManager.GetObject("usuario", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap volver_al_pasado {
+            get {
+                object obj = ResourceManager.GetObject("volver-al-pasado", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
